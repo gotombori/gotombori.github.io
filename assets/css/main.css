@@ -1616,6 +1616,13 @@ input, select, textarea {
 					background-color: rgba(255, 255, 255, 0.175);
 				}
 
+				#main article .breadcrumb {
+					display: inline-flex;
+				}
+				#main article .breadcrumb-item {
+					padding-right: 2.5rem;
+				}
+
 		@media screen and (max-width: 736px) {
 
 			#main article {
